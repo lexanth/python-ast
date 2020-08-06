@@ -1,0 +1,3 @@
+src/parser/*
+prettier.config.js
+dist
