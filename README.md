@@ -4,11 +4,11 @@ Python (3) Parser for JavaScript/TypeScript, based on [antlr4ts](https://www.npm
 
 [![npm version](https://img.shields.io/npm/v/python-ast.svg)](https://www.npmjs.com/package/python-ast)
 
-<!-- [![Build Status](https://travis-ci.org/urish/java-ast.png?branch=master)](https://travis-ci.org/urish/java-ast) -->
+[![Build Status](https://travis-ci.org/lexanth/python-ast.png?branch=master)](https://travis-ci.org/lexanth/python-ast)
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-Singificantly based on [java-ast](https://github.com/urish/java-ast) - all credit to [Urish](https://github.com/urish)
+Significantly based on [java-ast](https://github.com/urish/java-ast) - all credit to [Urish](https://github.com/urish)
 
 ## Usage Example
 
